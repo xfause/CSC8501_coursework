@@ -1,0 +1,58 @@
+﻿  BranchFour.cpp
+  BranchOne.cpp
+  BranchThree.cpp
+C:\Users\xfaus\Desktop\CSC8501_coursework\BranchThree.cpp(52,22): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  BranchTwo.cpp
+  CSC8501_coursework.cpp
+  The contents of <any> are available only with C++17 or later.
+C:\Users\xfaus\Desktop\CSC8501_coursework\BranchThree.cpp(52,22): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\xfaus\Desktop\CSC8501_coursework\CSC8501_coursework.cpp(46,8): error C2039: "any": 不是 "std" 的成员
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\random(29): message : 参见“std”的声明
+C:\Users\xfaus\Desktop\CSC8501_coursework\CSC8501_coursework.cpp(46,12): error C2065: “any”: 未声明的标识符
+C:\Users\xfaus\Desktop\CSC8501_coursework\CSC8501_coursework.cpp(46,12): error C2146: 语法错误: 缺少“;”(在标识符“opCode”的前面)
+C:\Users\xfaus\Desktop\CSC8501_coursework\CSC8501_coursework.cpp(46,12): error C2065: “opCode”: 未声明的标识符
+C:\Users\xfaus\Desktop\CSC8501_coursework\CSC8501_coursework.cpp(49,3): error C2065: “opCode”: 未声明的标识符
+C:\Users\xfaus\Desktop\CSC8501_coursework\CSC8501_coursework.cpp(51,12): error C2039: "any_cast": 不是 "std" 的成员
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\random(29): message : 参见“std”的声明
+C:\Users\xfaus\Desktop\CSC8501_coursework\CSC8501_coursework.cpp(51,6): error C2065: “any_cast”: 未声明的标识符
+C:\Users\xfaus\Desktop\CSC8501_coursework\CSC8501_coursework.cpp(51,21): error C2062: 意外的类型“int”
+C:\Users\xfaus\Desktop\CSC8501_coursework\CSC8501_coursework.cpp(51,40): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\xfaus\Desktop\CSC8501_coursework\CSC8501_coursework.cpp(62,3): error C2181: 没有匹配 if 的非法 else
+C:\Users\xfaus\Desktop\CSC8501_coursework\CSC8501_coursework.cpp(62,17): error C2039: "any_cast": 不是 "std" 的成员
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\random(29): message : 参见“std”的声明
+C:\Users\xfaus\Desktop\CSC8501_coursework\CSC8501_coursework.cpp(62,11): error C2065: “any_cast”: 未声明的标识符
+C:\Users\xfaus\Desktop\CSC8501_coursework\CSC8501_coursework.cpp(62,26): error C2062: 意外的类型“int”
+C:\Users\xfaus\Desktop\CSC8501_coursework\CSC8501_coursework.cpp(62,45): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\xfaus\Desktop\CSC8501_coursework\CSC8501_coursework.cpp(65,3): error C2181: 没有匹配 if 的非法 else
+C:\Users\xfaus\Desktop\CSC8501_coursework\CSC8501_coursework.cpp(65,17): error C2039: "any_cast": 不是 "std" 的成员
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\random(29): message : 参见“std”的声明
+C:\Users\xfaus\Desktop\CSC8501_coursework\CSC8501_coursework.cpp(65,11): error C2065: “any_cast”: 未声明的标识符
+C:\Users\xfaus\Desktop\CSC8501_coursework\CSC8501_coursework.cpp(65,26): error C2062: 意外的类型“int”
+C:\Users\xfaus\Desktop\CSC8501_coursework\CSC8501_coursework.cpp(65,45): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\xfaus\Desktop\CSC8501_coursework\CSC8501_coursework.cpp(70,3): error C2181: 没有匹配 if 的非法 else
+C:\Users\xfaus\Desktop\CSC8501_coursework\CSC8501_coursework.cpp(70,17): error C2039: "any_cast": 不是 "std" 的成员
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\random(29): message : 参见“std”的声明
+C:\Users\xfaus\Desktop\CSC8501_coursework\CSC8501_coursework.cpp(70,11): error C2065: “any_cast”: 未声明的标识符
+C:\Users\xfaus\Desktop\CSC8501_coursework\CSC8501_coursework.cpp(70,26): error C2062: 意外的类型“int”
+C:\Users\xfaus\Desktop\CSC8501_coursework\CSC8501_coursework.cpp(70,45): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\xfaus\Desktop\CSC8501_coursework\CSC8501_coursework.cpp(73,3): error C2181: 没有匹配 if 的非法 else
+C:\Users\xfaus\Desktop\CSC8501_coursework\CSC8501_coursework.cpp(73,17): error C2039: "any_cast": 不是 "std" 的成员
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\random(29): message : 参见“std”的声明
+C:\Users\xfaus\Desktop\CSC8501_coursework\CSC8501_coursework.cpp(73,11): error C2065: “any_cast”: 未声明的标识符
+C:\Users\xfaus\Desktop\CSC8501_coursework\CSC8501_coursework.cpp(73,26): error C2062: 意外的类型“int”
+C:\Users\xfaus\Desktop\CSC8501_coursework\CSC8501_coursework.cpp(73,45): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\xfaus\Desktop\CSC8501_coursework\CSC8501_coursework.cpp(84,3): error C2181: 没有匹配 if 的非法 else
+C:\Users\xfaus\Desktop\CSC8501_coursework\CSC8501_coursework.cpp(84,17): error C2039: "any_cast": 不是 "std" 的成员
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\random(29): message : 参见“std”的声明
+C:\Users\xfaus\Desktop\CSC8501_coursework\CSC8501_coursework.cpp(84,11): error C2065: “any_cast”: 未声明的标识符
+C:\Users\xfaus\Desktop\CSC8501_coursework\CSC8501_coursework.cpp(84,26): error C2062: 意外的类型“int”
+C:\Users\xfaus\Desktop\CSC8501_coursework\CSC8501_coursework.cpp(84,45): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Users\xfaus\Desktop\CSC8501_coursework\CSC8501_coursework.cpp(87,3): error C2181: 没有匹配 if 的非法 else
+  Encrypt.cpp
+C:\Users\xfaus\Desktop\CSC8501_coursework\Encrypt.cpp(145,32): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\xfaus\Desktop\CSC8501_coursework\Encrypt.cpp(145,65): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\xfaus\Desktop\CSC8501_coursework\Encrypt.cpp(190,30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\xfaus\Desktop\CSC8501_coursework\Encrypt.cpp(235,43): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\xfaus\Desktop\CSC8501_coursework\Encrypt.cpp(265,45): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Menu.cpp
+  MenuDisplay.cpp

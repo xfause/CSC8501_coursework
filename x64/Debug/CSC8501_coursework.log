@@ -1,0 +1,29 @@
+﻿  BranchFour.cpp
+  BranchOne.cpp
+  BranchThree.cpp
+C:\Users\xfaus\Desktop\CSC8501_coursework\BranchThree.cpp(52,22): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  BranchTwo.cpp
+  CSC8501_coursework.cpp
+C:\Users\xfaus\Desktop\CSC8501_coursework\BranchThree.cpp(52,22): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Encrypt.cpp
+C:\Users\xfaus\Desktop\CSC8501_coursework\Encrypt.cpp(145,32): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\xfaus\Desktop\CSC8501_coursework\Encrypt.cpp(145,65): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\xfaus\Desktop\CSC8501_coursework\Encrypt.cpp(190,30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\xfaus\Desktop\CSC8501_coursework\Encrypt.cpp(235,43): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\xfaus\Desktop\CSC8501_coursework\Encrypt.cpp(265,45): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Menu.cpp
+  MenuDisplay.cpp
+  正在生成代码...
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/FORCE”规范)
+CSC8501_coursework.obj : warning LNK4006: "bool __cdecl Op1CheckPassword(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?Op1CheckPassword@@YA_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) 已在 BranchOne.obj 中定义；已忽略第二个定义
+CSC8501_coursework.obj : warning LNK4006: "bool __cdecl Op1CheckUsername(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class BaseMenu)" (?Op1CheckUsername@@YA_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@VBaseMenu@@@Z) 已在 BranchOne.obj 中定义；已忽略第二个定义
+CSC8501_coursework.obj : warning LNK4006: "bool __cdecl Op2CheckPasswordIsCorrect(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?Op2CheckPasswordIsCorrect@@YA_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z) 已在 BranchTwo.obj 中定义；已忽略第二个定义
+CSC8501_coursework.obj : warning LNK4006: "void __cdecl Op2CheckPasswordOfUser(class OptionMenu_2,class BaseMenu)" (?Op2CheckPasswordOfUser@@YAXVOptionMenu_2@@VBaseMenu@@@Z) 已在 BranchTwo.obj 中定义；已忽略第二个定义
+CSC8501_coursework.obj : warning LNK4006: "void __cdecl Op2RetryLoop(class OptionMenu_2,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?Op2RetryLoop@@YAXVOptionMenu_2@@HV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) 已在 BranchTwo.obj 中定义；已忽略第二个定义
+CSC8501_coursework.obj : warning LNK4006: "void __cdecl Op3GeneratePasswordFile(class OptionMenu_3,int,int)" (?Op3GeneratePasswordFile@@YAXVOptionMenu_3@@HH@Z) 已在 BranchThree.obj 中定义；已忽略第二个定义
+CSC8501_coursework.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl Op3RandomPlainTextCateOne(int)" (?Op3RandomPlainTextCateOne@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z) 已在 BranchThree.obj 中定义；已忽略第二个定义
+CSC8501_coursework.obj : warning LNK4006: "class std::vector<int,class std::allocator<int> > __cdecl Op3RandomPlainTextCateTwo(int)" (?Op3RandomPlainTextCateTwo@@YA?AV?$vector@HV?$allocator@H@std@@@std@@H@Z) 已在 BranchThree.obj 中定义；已忽略第二个定义
+CSC8501_coursework.obj : warning LNK4006: "void __cdecl Op4DecryptPasswordFile(class OptionMenu_4,class BaseMenu,int,int)" (?Op4DecryptPasswordFile@@YAXVOptionMenu_4@@VBaseMenu@@HH@Z) 已在 BranchFour.obj 中定义；已忽略第二个定义
+CSC8501_coursework.obj : warning LNK4006: "bool __cdecl SaveUsernameAndPassword(class OptionMenu_1,class BaseMenu)" (?SaveUsernameAndPassword@@YA_NVOptionMenu_1@@VBaseMenu@@@Z) 已在 BranchOne.obj 中定义；已忽略第二个定义
+C:\Users\xfaus\Desktop\CSC8501_coursework\x64\Debug\CSC8501_coursework.exe : warning LNK4088: 因 /FORCE 选项生成了映像；映像可能不能运行
+  CSC8501_coursework.vcxproj -> C:\Users\xfaus\Desktop\CSC8501_coursework\x64\Debug\CSC8501_coursework.exe
